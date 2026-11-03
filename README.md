@@ -1,8 +1,4 @@
 Tpr Evans Autobiography
-https://share.gemini.google/Yjf84ddqrZn2
-Created with Flash-Lite November 3, 2026 at 07:56 AM
-Published November 3, 2026 at 08:03 AM
-write an autobiography of myself. github standard
 
 Tpr Ntere Evans
 Trooper | Regimental Armour Specialist | Certified Journalist
@@ -19,9 +15,9 @@ Above all, I am a proud husband and a devoted father to my two children, Esther 
 
 🎖️ Rank / Title: Trooper (Tpr)
 
-📌 Name Tag: NTE
+📌 Name Tag: NTERE
 
-📜 Military Coursework: Regimental Armour Basic
+📜 Military Coursework: Regimental Armour Basic (BIII)
 
 📰 Civilian Qualification: Certificate in Journalism (Institute of Business Management and Journalism, Kumasi)
 
